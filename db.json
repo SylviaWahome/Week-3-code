@@ -1,25 +1,25 @@
 {
   "posts": [
     {
-      "id": 1,
+      "id": "1",
       "title": "Welcome to My Blog",
       "content": "This is the very first post on this beautiful platform.",
       "author": "Sylvia Wanjiru"
     },
     {
-      "id": 2,
+      "id": "2",
       "title": "Alignment",
       "content": "Live an Impactful Fulfilling Life",
       "author": "Kelly Blessing"
     },
     {
-      "id": 6414,
+      "id": "6414",
       "title": "Purpose",
       "content": "My Life Is Purposeful",
       "author": "Shee"
     },
     {
-      "id": 38,
+      "id": "38",
       "title": "Gratitude",
       "content": "I am grateful for Gods Faithfulness",
       "author": "Kelly"
